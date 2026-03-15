@@ -1,0 +1,14 @@
+
+
+Audiocodes Media Pack serisi
+
+Cihaza AdminPage üzerinden ulaşılır.
+
+IPadresi/AdminPage şeklinde giriş yapılır.
+
+girilen sayfada Ini parameter yazan sekme seçilir. 
+
+Parametre kısmına Bootpselectiveenable, value kısmına 1 yazılır.
+
+Sonrasında Back to Main denilerek Web arayüzüne geri dönülür.
+

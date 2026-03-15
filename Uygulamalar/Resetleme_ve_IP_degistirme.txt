@@ -1,0 +1,13 @@
+FACTORY RESET
+10 sn bas, etherneti çikart, ready yanip fail söndügünde etherneti tak
+
+***12345
+1#
+ip sorgulama
+2# Subnet
+3# Default GW
+
+degistirmek için # 10*10*189*189# kayit iin 1 tusla
+
+
+

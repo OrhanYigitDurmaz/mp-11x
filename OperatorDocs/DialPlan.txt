@@ -1,0 +1,7 @@
+Tel to IP routing
+
+1: bir ile baþlayan tüm çaðrýlar
+1#: sadece bir
+1*#: iki haneli bir ile baþlayan tüm numaralar
+1[3-6]#: 13 ile 16 arasýndaki numaralar
+1[3,6]#: 13 ile 16 numaralarý
